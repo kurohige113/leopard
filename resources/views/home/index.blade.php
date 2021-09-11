@@ -77,6 +77,7 @@
 
   <footer id="footer">
     <p>&copy; 2021 FREE TOY BOX</p> 
+  </footer>
   <script>
     //フェードイン用のコードです
     $(function(){
